@@ -2,7 +2,6 @@
 [![Release](https://img.shields.io/github/release/williambj1/ROG-Mojave.svg)](https://github.com/williambj1/ROG-Mojave/releases)
 > **A self designed Theme for Clover**
 
-##
 **View [Here](https://williambj1.github.io/ROG-Mojave/) for Better Experience**
 
 ## Release
