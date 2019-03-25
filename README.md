@@ -2,7 +2,7 @@
 > **A self designed Theme for Clover**
 
 ##
-View [Here](https://williambj1.github.io/ROG-Mojave/) for Better Experience
+**View [Here](https://williambj1.github.io/ROG-Mojave/) for Better Experience**
 # Gallery
 
 - **macOS**
