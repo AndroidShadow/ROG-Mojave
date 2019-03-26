@@ -18,5 +18,5 @@
 ![Windows](https://raw.githubusercontent.com/williambj1/ROG-Mojave/master/ScreenShots/2.png)
 
 ## Credits
-- All of these images are from the **Internet**.
+- All of these images used to make the theme are from the **Internet**.
 - `banner.png`, `bg.png` & `theme.plist` modified by Bat.bat(@williambj1).
